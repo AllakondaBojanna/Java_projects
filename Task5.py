@@ -6,7 +6,7 @@ def common_element(a, b):
 	if (a_set & b_set):
 		print(a_set & b_set)
 	else:
-		print("No common elements") 
+		print("No common elements present") 
 		
 a = [1, 2, 3, 4, 5, 6, 7]
 b = [5, 6, 7, 8, 9]
